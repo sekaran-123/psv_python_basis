@@ -1,0 +1,9 @@
+a='ram'
+b='tom'
+c=a+b
+print(c)
+c=3
+z=str(c)
+d=a+z
+print(d)
+print(a*c)
